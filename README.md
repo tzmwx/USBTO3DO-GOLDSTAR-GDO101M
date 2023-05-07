@@ -11,9 +11,9 @@ U4 74LVC4245 TSSOP-24
 
 X1 有源晶振OSC SMD7050 16.93Mhz
 
-FFC & FPC Connectors POST PLATED VERT 14P 1.25mm
+POWER 插座FFC & FPC Connectors POST PLATED VERT 14P 1.25mm
 
-FFC & FPC Connectors POST PLATED VERT 30P 1.25mm
+CDROM 插座FFC & FPC Connectors POST PLATED VERT 30P 1.25mm
 
 如果你要在模块上建立一个读盘灯（同主机面板绿色读盘灯）：
 
