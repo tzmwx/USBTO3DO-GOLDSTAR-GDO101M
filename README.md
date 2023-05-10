@@ -15,8 +15,7 @@ POWER FFC插座14P 1.25mm  （FFC & FPC Connectors POST PLATED VERT 14P 1.25mm�
 
 CDROM FFC插座30P 1.25mm  （FFC & FPC Connectors POST PLATED VERT 30P 1.25mm）
 
-
-
+注意：注意：注意：需要去除主板上的14P\30P插座旁边的电容C70\C71\C85\C87\C90\C94\C95\C97\C98\C99一共10个电容，具体位置看WHEREC70-C99目录
 
 
 如果你要在模块上建立一个读盘灯（同主机面板绿色读盘灯）：
